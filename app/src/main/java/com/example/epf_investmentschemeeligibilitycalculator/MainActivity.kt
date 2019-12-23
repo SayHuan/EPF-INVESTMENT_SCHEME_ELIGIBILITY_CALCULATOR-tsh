@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
 
                     mbs_display.text = minbasicsaving.toString();
                     investment_display.text = investmentAllowed.toString();
-                    //...
+                    //.
 
 
 
